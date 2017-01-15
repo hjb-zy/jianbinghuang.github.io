@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title>{{ Jianbing Huang's website }}</title>
+			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/main/css/main.css">
 		</head>
@@ -16,10 +16,7 @@
 			</nav>
 			<div class="container">
 			
-    			<div class="blurb">
-        			<h1>Hi there, I'm Jianbing Huang!</h1>
-					<p>I'm learning to build a website about <em>Computational Geometry</em>. <a href="/about">Read more about my life...</a></p>
-    			</div><!-- /.blurb -->
+			{{ content }}
 			
 			</div><!-- /.container -->
 			<footer>
