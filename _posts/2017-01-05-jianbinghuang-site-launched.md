@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jianbing Huang, Launches Site (second try)"
+title: "Jianbing Huang, Launches Site"
 date: 2017-01-05
 ---
 
